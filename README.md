@@ -1,1 +1,1 @@
-# LPIC1-_claude-
+# LPIC1-_claude
